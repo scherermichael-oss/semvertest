@@ -23,6 +23,9 @@
     "roboter-server": "0.16.0",
     "semantic-release": "^12.4.1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "release": {
     "generateNotes": {
       "preset": "angular",
