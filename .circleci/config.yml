@@ -7,7 +7,7 @@ jobs:
       - checkout
       - run: npm install roboter-cli
       - run: npm install
-      - run: bot
+      - run: npx bot
 
   test_node_8:
     docker:
@@ -16,7 +16,7 @@ jobs:
       - checkout
       - run: npm install roboter-cli
       - run: npm install
-      - run: bot
+      - run: npx bot
 
   release:
     docker:
