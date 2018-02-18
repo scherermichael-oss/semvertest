@@ -5,7 +5,7 @@ jobs:
       - image: circleci/node:6
     steps:
       - checkout
-      - run: npm install -g roboter-cli
+      - run: npm install roboter-cli
       - run: npm install
       - run: bot
 
@@ -14,7 +14,7 @@ jobs:
       - image: circleci/node:8
     steps:
       - checkout
-      - run: npm install -g roboter-cli
+      - run: npm install roboter-cli
       - run: npm install
       - run: bot
 
