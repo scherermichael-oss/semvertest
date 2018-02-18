@@ -1,4 +1,4 @@
 verifyConditions:
-  - @semantic-release/github
+    - "@semantic-release/github"
 publish:
-  - @semantic-release/github
+    - "@semantic-release/github"
