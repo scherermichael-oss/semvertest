@@ -1,14 +1,15 @@
 {
   "name": "semvertest",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "Test for automatic semver releases",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "bot",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scherermichael/semvertest.git"
+    "url": "https://github.com/scherermichael/semvertest.git"
   },
   "author": "",
   "license": "ISC",
@@ -20,6 +21,6 @@
     "assertthat": "1.0.0",
     "roboter": "0.16.0",
     "roboter-server": "0.16.0",
-    "semantic-release": "12.4.1"
+    "semantic-release": "^12.4.1"
   }
 }
