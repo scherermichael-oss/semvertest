@@ -1,0 +1,39 @@
+version: 2
+jobs:
+  test_node_6:
+    docker:
+      - image: circleci/node:6
+    steps:
+      - checkout
+      - run: npm install -g roboter-cli
+      - run: npm install
+      - run: bot
+
+  test_node_8:
+    docker:
+      - image: circleci/node:8
+    steps:
+      - checkout
+      - run: npm install -g roboter-cli
+      - run: npm install
+      - run: bot
+
+  release:
+    docker:
+      - image: circleci/node:8
+    steps:
+      - checkout
+      - run: npm install
+      - run: npx semantic-release
+
+workflows:
+  version: 2
+  test_and_release:
+    # Run the test jobs first, then the release only when all the test jobs are successful
+    jobs:
+      - test_node_6
+      - test_node_8
+      - release:
+          requires:
+            - test_node_6
+            - test_node_8
