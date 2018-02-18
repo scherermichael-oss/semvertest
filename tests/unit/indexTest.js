@@ -2,11 +2,11 @@
 
 const assert = require('assertthat');
 
-const MyMath = require('../../..lib');
+const SuperMath = require('../../..lib');
 
-suite('MyMath', () => {
+suite('SuperMath', () => {
   test('is a function.', done => {
-    assert.that(MyMath).is.ofType('function');
+    assert.that(SuperMath).is.ofType('function');
     done();
   });
 
@@ -14,7 +14,7 @@ suite('MyMath', () => {
     let myMath;
 
     setup(() => {
-      myMath = new MyMath();
+      myMath = new SuperMath();
     });
 
     test('is a function.', done => {
