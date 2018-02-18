@@ -1,6 +1,6 @@
 {
   "name": "semvertest",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
   "description": "Test for automatic semver releases",
   "main": "lib/index.js",
   "scripts": {
@@ -22,5 +22,18 @@
     "roboter": "0.16.0",
     "roboter-server": "0.16.0",
     "semantic-release": "^12.4.1"
+  },
+  "release": {
+    "verifyConditions": ["@semantic-release/github"],
+    "publish": ["@semantic-release/github"],
+    "generateNotes": {
+      "preset": "angular",
+      "parserOpts": {
+        "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
+      },
+      "writerOpts": {
+        "commitsSort": ["subject", "scope"],
+      }
+    }
   }
 }
