@@ -24,15 +24,26 @@
     "semantic-release": "^12.4.1"
   },
   "release": {
-    "verifyConditions": ["@semantic-release/github"],
-    "publish": ["@semantic-release/github"],
+    "verifyConditions": [
+      "@semantic-release/github"
+    ],
+    "publish": [
+      "@semantic-release/github"
+    ],
     "generateNotes": {
       "preset": "angular",
       "parserOpts": {
-        "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
+        "noteKeywords": [
+          "BREAKING CHANGE",
+          "BREAKING CHANGES",
+          "BREAKING"
+        ]
       },
       "writerOpts": {
-        "commitsSort": ["subject", "scope"]
+        "commitsSort": [
+          "subject",
+          "scope"
+        ]
       }
     }
   }
