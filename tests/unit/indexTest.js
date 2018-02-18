@@ -2,11 +2,11 @@
 
 const assert = require('assertthat');
 
-const SuperMath = require('../../..lib');
+const HyperMath = require('../../..lib');
 
-suite('SuperMath', () => {
+suite('HyperMath', () => {
   test('is a function.', done => {
-    assert.that(SuperMath).is.ofType('function');
+    assert.that(HyperMath).is.ofType('function');
     done();
   });
 
@@ -14,7 +14,7 @@ suite('SuperMath', () => {
     let myMath;
 
     setup(() => {
-      myMath = new SuperMath();
+      myMath = new HyperMath();
     });
 
     test('is a function.', done => {
