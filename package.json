@@ -32,7 +32,7 @@
         "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
       },
       "writerOpts": {
-        "commitsSort": ["subject", "scope"],
+        "commitsSort": ["subject", "scope"]
       }
     }
   }
