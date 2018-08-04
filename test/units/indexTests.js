@@ -2,7 +2,7 @@
 
 const assert = require('assertthat');
 
-const HyperMath = require('../../..lib');
+const HyperMath = require('../../lib');
 
 suite('HyperMath', () => {
   test('is a function.', done => {
