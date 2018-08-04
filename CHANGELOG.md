@@ -5,7 +5,7 @@
 
 * Update README.md ([5b68ac6](https://github.com/scherermichael/semvertest/commit/5b68ac6))
 
-# [10.2.0](https://github.com/scherermichael/semvertest/compare/v10.1.1...v10.2.0) (2018-08-04)
+## [10.2.0](https://github.com/scherermichael/semvertest/compare/v10.1.1...v10.2.0) (2018-08-04)
 
 
 ### Features
