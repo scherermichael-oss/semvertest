@@ -1,3 +1,15 @@
+# [14.0.0](https://github.com/scherermichael/semvertest/compare/v13.0.0...v14.0.0) (2018-08-05)
+
+
+### Features
+
+* Update README.md ([412328e](https://github.com/scherermichael/semvertest/commit/412328e))
+
+
+### BREAKING CHANGES
+
+* This is a breaking test.
+
 # [13.0.0](https://github.com/scherermichael/semvertest/compare/v12.0.0...v13.0.0) (2018-08-05)
 
 
