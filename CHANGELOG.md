@@ -1,3 +1,15 @@
+# [12.0.0](https://github.com/scherermichael/semvertest/compare/v11.0.0...v12.0.0) (2018-08-05)
+
+
+### Features
+
+* Update README.md ([e54bd41](https://github.com/scherermichael/semvertest/commit/e54bd41))
+
+
+### BREAKING CHANGES
+
+* It breaks everything.
+
 # [11.0.0](https://github.com/scherermichael/semvertest/compare/v10.2.1...v11.0.0) (2018-08-05)
 
 
