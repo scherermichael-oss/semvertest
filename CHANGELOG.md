@@ -1,3 +1,17 @@
+# [13.0.0](https://github.com/scherermichael/semvertest/compare/v12.0.0...v13.0.0) (2018-08-05)
+
+
+### Features
+
+* Update README.md ([f4ed825](https://github.com/scherermichael/semvertest/commit/f4ed825))
+
+
+### BREAKING CHANGES
+
+* This is a breaking change.
+
+Another paragraph.
+
 # [12.0.0](https://github.com/scherermichael/semvertest/compare/v11.0.0...v12.0.0) (2018-08-05)
 
 
