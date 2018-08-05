@@ -1,6 +1,6 @@
 {
   "name": "@scherermichael/semvertest",
-  "version": "10.0.0",
+  "version": "15.0.0",
   "description": "Test for automatic semver releases",
   "main": "lib/index.js",
   "scripts": {
