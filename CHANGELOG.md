@@ -1,3 +1,20 @@
+# [16.0.0](https://github.com/scherermichael/semvertest/compare/v15.0.0...v16.0.0) (2018-08-05)
+
+
+### Features
+
+* Update README.md ([1b4c10f](https://github.com/scherermichael/semvertest/commit/1b4c10f))
+
+
+### BREAKING CHANGES
+
+* Test1
+
+2nd paragraph of Test1
+* Test 2
+
+2nd paragraph of Test2
+
 # [15.0.0](https://github.com/scherermichael/semvertest/compare/v14.0.0...v15.0.0) (2018-08-05)
 
 
