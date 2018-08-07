@@ -1,3 +1,10 @@
+## [17.0.1](https://github.com/scherermichael/semvertest/compare/v17.0.0...v17.0.1) (2018-08-07)
+
+
+### Bug Fixes
+
+* Update README.md ([bff3bab](https://github.com/scherermichael/semvertest/commit/bff3bab))
+
 # [17.0.0](https://github.com/scherermichael/semvertest/compare/v16.0.0...v17.0.0) (2018-08-07)
 
 
