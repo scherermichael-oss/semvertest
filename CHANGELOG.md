@@ -1,3 +1,10 @@
+# [18.4.0](https://github.com/scherermichael/semvertest/compare/v18.3.0...v18.4.0) (2018-08-24)
+
+
+### Features
+
+* Test Test ([b560fd8](https://github.com/scherermichael/semvertest/commit/b560fd8))
+
 # [18.3.0](https://github.com/scherermichael/semvertest/compare/v18.2.0...v18.3.0) (2018-08-24)
 
 
