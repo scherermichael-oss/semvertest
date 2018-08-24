@@ -2,4 +2,4 @@
 
 This is just a test.
 
-foo
+test
