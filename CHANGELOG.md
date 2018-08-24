@@ -1,3 +1,8 @@
+TEST # [18.2.0](https://github.com/scherermichael/semvertest/compare/v18.1.0...v18.2.0) (2018-08-24)
+
+
+* This is a test ([b3500d1](https://github.com/scherermichael/semvertest/commit/b3500d1))
+
 # [18.0.0](https://github.com/scherermichael/semvertest/compare/v17.0.1...v18.0.0) (2018-08-10)
 
 
