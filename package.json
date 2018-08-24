@@ -21,6 +21,7 @@
     "@semantic-release/changelog": "3.0.0",
     "@semantic-release/git": "7.0.1",
     "@semantic-release/npm": "5.0.1",
+    "@semantic-release/release-notes-generator": "7.0.1",
     "assertthat": "1.0.0",
     "roboter": "1.0.6",
     "semantic-release": "15.9.3"
@@ -30,14 +31,23 @@
   },
   "release": {
     "verifyConditions": [
-      "@semantic-release/changelog",
+      "@semantic-release/release-notes-generator",
       "@semantic-release/npm",
       "@semantic-release/git"
     ],
     "prepare": [
-      "@semantic-release/changelog",
+      "@semantic-release/release-notes-generator",
       "@semantic-release/npm",
       "@semantic-release/git"
-    ]
+    ],
+    "generateNotes": {
+      "preset": "angular",
+      "parserOpts": {
+        "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES"]
+      },
+      "writerOpts": {
+        "commitsSort": ["subject", "scope"],
+      }
+    }
   }
 }
