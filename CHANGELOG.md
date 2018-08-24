@@ -1,3 +1,10 @@
+# [18.3.0](https://github.com/scherermichael/semvertest/compare/v18.2.0...v18.3.0) (2018-08-24)
+
+
+### Features
+
+* Add body to release note ([d66edea](https://github.com/scherermichael/semvertest/commit/d66edea))
+
 TEST # [18.2.0](https://github.com/scherermichael/semvertest/compare/v18.1.0...v18.2.0) (2018-08-24)
 
 
