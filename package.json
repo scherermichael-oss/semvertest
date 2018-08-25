@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "bot",
-    "release": "semantic-release --debug"
+    "release": "semantic-release"
   },
   "repository": {
     "type": "git",
