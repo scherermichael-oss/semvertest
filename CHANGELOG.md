@@ -1,3 +1,14 @@
+### 18.6.0 (2018-08-25)
+
+#### Features
+
+
+* New feture ([4510ff5](https://github.com/scherermichael/semvertest/commit/4510ff5))
+
+This is a new feature.
+
+BREAKING CHANGES: This is a breaking change.
+
 ### 18.5.0 (2018-08-25)
 
 #### Bug Fixes
