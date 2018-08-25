@@ -1,6 +1,6 @@
 {
   "name": "@scherermichael/semvertest",
-  "version": "18.4.1",
+  "version": "18.4.0",
   "description": "Test for automatic semver releases",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/scherermichael/semvertest#readme",
   "devDependencies": {
-    "seal-conf": "file:../semantic-release-config",
+    "@sealsystems/semantic-release-config": "0.0.2",
     "assertthat": "1.0.0",
     "roboter": "1.0.6",
     "semantic-release": "15.9.3"
@@ -27,7 +27,7 @@
     "access": "public"
   },
   "release": {
-    "extends": "seal-conf",
+    "extends": "@sealsystems/semantic-release-config/npm",
     "type": "binary"
   }
 }
