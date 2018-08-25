@@ -1,3 +1,16 @@
+## 19.1.0 (2018-08-25)
+
+### Features
+
+
+#### New format of CHANGELOG.md ([985b0a7](https://github.com/scherermichael/semvertest/commit/985b0a7))
+
+#### Update readme file ([035de70](https://github.com/scherermichael/semvertest/commit/035de70))
+
+
+
+---
+
 ## 19.0.0 (2018-08-25)
 
 ### Features
