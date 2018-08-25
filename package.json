@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "bot",
-    "release": "semantic-release"
+    "release": "semantic-release --debug"
   },
   "repository": {
     "type": "git",
@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/scherermichael/semvertest#readme",
   "devDependencies": {
-    "@sealsystems/semantic-release-config": "0.0.2",
+    "@sealsystems/semantic-release-config": "0.0.3",
     "assertthat": "1.0.0",
     "roboter": "1.0.6",
-    "semantic-release": "15.9.3"
+    "semantic-release": "15.9.9"
   },
   "publishConfig": {
     "access": "public"
