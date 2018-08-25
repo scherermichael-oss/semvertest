@@ -21,8 +21,10 @@ Rename `commitTemplate` to `commitPartial`.
 
 * Add body to release note ([d66edea](https://github.com/scherermichael/semvertest/commit/d66edea))
 
-TEST # [18.2.0](https://github.com/scherermichael/semvertest/compare/v18.1.0...v18.2.0) (2018-08-24)
+### [18.2.0](https://github.com/scherermichael/semvertest/compare/v18.1.0...v18.2.0) (2018-08-24)
 
+
+#### Features
 
 * This is a test ([b3500d1](https://github.com/scherermichael/semvertest/commit/b3500d1))
 
