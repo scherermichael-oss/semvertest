@@ -1,23 +1,23 @@
-## [18.4.1](https://github.com/scherermichael/semvertest/compare/v18.4.0...v18.4.1) (2018-08-24)
+### [18.4.1](https://github.com/scherermichael/semvertest/compare/v18.4.0...v18.4.1) (2018-08-24)
 
 
-### Bug Fixes
+#### Bug Fixes
 
 * Fix commitPartial option ([4a66e9a](https://github.com/scherermichael/semvertest/commit/4a66e9a))
 
 Rename `commitTemplate` to `commitPartial`.
 
-# [18.4.0](https://github.com/scherermichael/semvertest/compare/v18.3.0...v18.4.0) (2018-08-24)
+### [18.4.0](https://github.com/scherermichael/semvertest/compare/v18.3.0...v18.4.0) (2018-08-24)
 
 
-### Features
+#### Features
 
 * Test Test ([b560fd8](https://github.com/scherermichael/semvertest/commit/b560fd8))
 
-# [18.3.0](https://github.com/scherermichael/semvertest/compare/v18.2.0...v18.3.0) (2018-08-24)
+### [18.3.0](https://github.com/scherermichael/semvertest/compare/v18.2.0...v18.3.0) (2018-08-24)
 
 
-### Features
+#### Features
 
 * Add body to release note ([d66edea](https://github.com/scherermichael/semvertest/commit/d66edea))
 
@@ -26,34 +26,34 @@ TEST # [18.2.0](https://github.com/scherermichael/semvertest/compare/v18.1.0...v
 
 * This is a test ([b3500d1](https://github.com/scherermichael/semvertest/commit/b3500d1))
 
-# [18.0.0](https://github.com/scherermichael/semvertest/compare/v17.0.1...v18.0.0) (2018-08-10)
+### [18.0.0](https://github.com/scherermichael/semvertest/compare/v17.0.1...v18.0.0) (2018-08-10)
 
 
-### Features
+#### Features
 
 * Update README.md ([d291dc9](https://github.com/scherermichael/semvertest/commit/d291dc9))
 
 
-### BREAKING CHANGES
+#### BREAKING CHANGES
 
 * Alles ist anders.
 
-## [17.0.1](https://github.com/scherermichael/semvertest/compare/v17.0.0...v17.0.1) (2018-08-07)
+### [17.0.1](https://github.com/scherermichael/semvertest/compare/v17.0.0...v17.0.1) (2018-08-07)
 
 
-### Bug Fixes
+#### Bug Fixes
 
 * Update README.md ([bff3bab](https://github.com/scherermichael/semvertest/commit/bff3bab))
 
-# [17.0.0](https://github.com/scherermichael/semvertest/compare/v16.0.0...v17.0.0) (2018-08-07)
+### [17.0.0](https://github.com/scherermichael/semvertest/compare/v16.0.0...v17.0.0) (2018-08-07)
 
 
-### Bug Fixes
+#### Bug Fixes
 
 * Update README.md ([7a31f58](https://github.com/scherermichael/semvertest/commit/7a31f58))
 
 
-### BREAKING CHANGES
+#### BREAKING CHANGES
 
 * Test
 
