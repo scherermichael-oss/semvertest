@@ -1,3 +1,21 @@
+### 18.8.0 (2018-08-25)
+
+#### Features
+
+
+* feture, jira-007 ([99c84af](https://github.com/scherermichael/semvertest/commit/99c84af))
+
+Line one.
+
+Line two.
+
+
+#### BREAKING CHANGES
+
+* All changed
+
+Changed.
+
 ### 18.7.0 (2018-08-25)
 
 #### Features
