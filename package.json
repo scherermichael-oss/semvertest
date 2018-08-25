@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/scherermichael/semvertest#readme",
   "devDependencies": {
-    "@sealsystems/semantic-release-config": "0.0.6",
+    "@sealsystems/semantic-release-config": "0.0.7",
     "assertthat": "1.0.0",
     "roboter": "1.0.6",
     "semantic-release": "15.9.9"
