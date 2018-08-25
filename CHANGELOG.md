@@ -3,7 +3,7 @@
 #### Features
 
 
-##### New feature, gh-005, jira-006 ([2b31f8b](https://github.com/scherermichael/semvertest/commit/2b31f8b))
+###### New feature, gh-005, jira-006 ([2b31f8b](https://github.com/scherermichael/semvertest/commit/2b31f8b))
 
 This is a new feature.
 
