@@ -1,3 +1,21 @@
+### 18.7.0 (2018-08-25)
+
+#### Features
+
+
+* New feature, gh-005, jira-006 ([2b31f8b](https://github.com/scherermichael/semvertest/commit/2b31f8b))
+
+This is a new feature.
+
+Second paragraph.
+
+
+#### BREAKING CHANGES
+
+* This is a braking change!
+
+Second paragraph of breaking change.
+
 ### 18.6.0 (2018-08-25)
 
 #### Features
