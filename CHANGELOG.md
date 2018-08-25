@@ -1,3 +1,23 @@
+### 19.0.0 (2018-08-25)
+
+#### Features
+
+
+##### New feature with breking change, gh-10, jira-11 ([39fc2d4](https://github.com/scherermichael/semvertest/commit/39fc2d4))
+
+Line 1.
+
+Line 2. Line 2.
+
+
+#### BREAKING CHANGES
+
+##### Breaking change
+
+Breaking 1.
+
+Breaking 2.
+
 ### 18.8.0 (2018-08-25)
 
 #### Features
