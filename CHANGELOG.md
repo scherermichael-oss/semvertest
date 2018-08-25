@@ -1,3 +1,12 @@
+## [18.4.1](https://github.com/scherermichael/semvertest/compare/v18.4.0...v18.4.1) (2018-08-24)
+
+
+### Bug Fixes
+
+* Fix commitPartial option ([4a66e9a](https://github.com/scherermichael/semvertest/commit/4a66e9a))
+
+Rename `commitTemplate` to `commitPartial`.
+
 # [18.4.0](https://github.com/scherermichael/semvertest/compare/v18.3.0...v18.4.0) (2018-08-24)
 
 
