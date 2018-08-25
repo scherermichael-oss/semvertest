@@ -1,3 +1,32 @@
+### 18.5.0 (2018-08-25)
+
+#### Bug Fixes
+
+
+* Remove unneeded files ([7f52ca9](https://github.com/scherermichael/semvertest/commit/7f52ca9))
+
+* Use `npm run release` instead if `npm run semantic-release` to trigger a release ([bbb7727](https://github.com/scherermichael/semvertest/commit/bbb7727))
+
+#### Features
+
+
+* Complete feature description, gh-003, jira-004 ([72bd5bb](https://github.com/scherermichael/semvertest/commit/72bd5bb))
+
+This is the first paragraph of the description. Second sentence.
+
+This is the second paragraph of the description. Second sentence. Third sentence.
+
+BREAKING CHANGES: This changes everything.
+
+Second paragraph of breaking changes.
+* Test ([4299ed5](https://github.com/scherermichael/semvertest/commit/4299ed5))
+
+* test with issue references, gh-001, jira-002 ([eccef74](https://github.com/scherermichael/semvertest/commit/eccef74))
+
+This ist a test.
+
+This is a second paragraph.
+
 ### [18.4.1](https://github.com/scherermichael/semvertest/compare/v18.4.0...v18.4.1) (2018-08-24)
 
 
