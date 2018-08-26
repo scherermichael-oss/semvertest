@@ -1,3 +1,17 @@
+## 20.0.1 (2018-08-26)
+
+### Bug Fixes
+
+
+#### Update README.md ([64d5af2](https://github.com/scherermichael/semvertest/commit/64d5af2))
+
+closes #1 
+
+closes #2, closes #3
+
+
+---
+
 ## 20.0.0 (2018-08-26)
 
 ### Bug Fixes
