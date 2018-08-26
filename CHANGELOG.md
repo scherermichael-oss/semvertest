@@ -1,3 +1,27 @@
+## 20.1.0 (2018-08-26)
+
+### Features
+
+
+#### Issue references, gh-1492, jira-12434 ([02b5d2f](https://github.com/scherermichael/semvertest/commit/02b5d2f))
+
+You can reference issues on GitHub or Jira by adding the following code to the end of the changelog section:
+
+```
+gh-<number of issue>
+```
+
+or
+
+```
+jira-<number of issue>
+```
+
+Multiple references are allowed.
+
+
+---
+
 ## 20.0.1 (2018-08-26)
 
 ### Bug Fixes
