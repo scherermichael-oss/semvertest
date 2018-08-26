@@ -1,3 +1,15 @@
+## 19.1.1 (2018-08-26)
+
+### Bug Fixes
+
+
+#### Update README.md ([acbf287](https://github.com/scherermichael/semvertest/commit/acbf287))
+
+BREAKING CHANGE: This is a breaking change
+
+
+---
+
 ## 19.1.0 (2018-08-25)
 
 ### Features
