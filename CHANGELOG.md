@@ -1,3 +1,18 @@
+## 20.0.0 (2018-08-26)
+
+### Bug Fixes
+
+
+#### Update README.md ([c8447a7](https://github.com/scherermichael/semvertest/commit/c8447a7))
+
+
+
+### BREAKING CHANGES
+
+#### Test is no more
+
+---
+
 ## 19.1.2 (2018-08-26)
 
 ### Bug Fixes
