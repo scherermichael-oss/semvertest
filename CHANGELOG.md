@@ -1,3 +1,14 @@
+## 19.1.2 (2018-08-26)
+
+### Bug Fixes
+
+
+#### Update README.md ([bb79e53](https://github.com/scherermichael/semvertest/commit/bb79e53))
+
+
+
+---
+
 ## 19.1.1 (2018-08-26)
 
 ### Bug Fixes
