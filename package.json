@@ -27,7 +27,6 @@
     "access": "public"
   },
   "release": {
-    "extends": "@sealsystems/semantic-release-config/npm",
-    "type": "binary"
+    "extends": "@sealsystems/semantic-release-config/npm"
   }
 }
