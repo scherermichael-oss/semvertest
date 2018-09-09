@@ -1,3 +1,22 @@
+## 21.0.0 (2018-09-09)
+
+
+
+####  ([c7589ed](https://github.com/scherermichael/semvertest/commit/c7589ed))
+
+This is a bugfix
+
+This is another details paragraph.
+
+
+### BREAKING CHANGES
+
+#### Test
+
+#34
+
+---
+
 ## 20.1.0 (2018-08-26)
 
 ### Features
