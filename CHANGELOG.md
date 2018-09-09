@@ -1,3 +1,25 @@
+## 22.0.0 (2018-09-09)
+
+### Features
+
+
+#### Update README.md ([c29e534](https://github.com/scherermichael/semvertest/commit/c29e534))
+
+We added 'bar' to 'foo'!
+
+Second paragraph in details.
+
+
+### BREAKING CHANGES
+
+#### Test breaking changes
+
+This is the second paragraph in breaking changes.
+
+#34
+
+---
+
 ## 21.0.0 (2018-09-09)
 
 
