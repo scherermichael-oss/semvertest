@@ -1,3 +1,14 @@
+## 22.1.1 (2018-09-18)
+
+### Bug Fixes
+
+
+#### Update README.md ([a39259c](https://github.com/scherermichael/semvertest/commit/a39259c))
+
+
+
+---
+
 ## 22.1.0 (2018-09-18)
 
 ### Features
