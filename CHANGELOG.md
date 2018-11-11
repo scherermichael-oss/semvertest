@@ -1,3 +1,15 @@
+## 22.2.0 (2018-11-11)
+
+### Features
+
+
+#### Update README.md  klök ([4629fd8](https://github.com/scherermichael/semvertest/commit/4629fd8))
+
+BREAKING CHANGE: test
+
+
+---
+
 ## 22.1.1 (2018-09-18)
 
 ### Bug Fixes
