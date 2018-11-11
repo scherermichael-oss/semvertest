@@ -1,3 +1,14 @@
+## 22.4.0 (2018-11-11)
+
+### Features
+
+
+#### Update README.md ([7cc5dd0](https://github.com/scherermichael/semvertest/commit/7cc5dd0))
+
+
+
+---
+
 ## 22.3.0 (2018-11-11)
 
 ### Features
