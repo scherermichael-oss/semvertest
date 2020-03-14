@@ -13,7 +13,7 @@ jobs:
           command: npm run test
       - run:
           name: sleep
-          run: sleep ${SLEEP_INTERVAL:-10}
+          command: sleep ${SLEEP_INTERVAL:-10}
       - run:
           name: release
           command: npm run release
