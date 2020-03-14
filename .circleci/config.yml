@@ -3,19 +3,24 @@ jobs:
   build:
     docker:
       - image: 'circleci/node:12'
+
     steps:
       - checkout
+
       - run:
           name: install
           command: npm install
+
       - run:
           name: test
           command: npm run test
+
       - run:
           name: sleep
           command: |
             echo "Sleeping for ${SLEEP_INTERVAL:-10} seconds..."
             sleep ${SLEEP_INTERVAL:-10}
+
       - run:
           name: release
           command: npm run release
