@@ -20,7 +20,7 @@ jobs:
           command: |
             echo "Sleeping for ${SLEEP_INTERVAL:-10} seconds..."
             sleep ${SLEEP_INTERVAL:-10}
-            exit 1
+            exit 0
 
       - run:
           name: release
