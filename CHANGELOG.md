@@ -1,3 +1,15 @@
+## 22.8.0 (2020-06-05)
+
+### Features
+
+
+#### Update README.md ([db146cf](https://github.com/scherermichael/semvertest/commit/db146cf))
+
+BREAKING CHANGE: Test
+
+
+---
+
 ## 22.7.0 (2020-06-05)
 
 ### Features
