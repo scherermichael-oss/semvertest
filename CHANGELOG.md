@@ -1,3 +1,14 @@
+## 22.6.2 (2020-06-05)
+
+### Bug Fixes
+
+
+#### Update README.md ([592c481](https://github.com/scherermichael/semvertest/commit/592c481))
+
+
+
+---
+
 ## 22.6.1 (2020-03-15)
 
 ### Bug Fixes
