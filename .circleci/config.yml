@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: 'circleci/node:12'
+      - image: "circleci/node:12"
 
     steps:
       - checkout
@@ -20,7 +20,7 @@ jobs:
           command: |
             echo "Sleeping for ${SLEEP_INTERVAL:-10} seconds..."
             sleep ${SLEEP_INTERVAL:-10}
-            exit 0
+            exit ${EXIT_CODE:-0}
 
       - run:
           name: release
