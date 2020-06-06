@@ -1,3 +1,10 @@
+## 22.10.2 (2020-06-06)
+
+### Bug Fixes
+
+
+Update dependencies ([15d9471](https://github.com/scherermichael/semvertest/commit/15d9471))
+
 ## 22.10.1 (2020-06-06)
 
 ### Bug Fixes
