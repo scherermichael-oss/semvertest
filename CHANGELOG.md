@@ -1,3 +1,26 @@
+## 22.9.0 (2020-06-06)
+
+### Bug Fixes
+
+
+#### Update release config ([8c642f1](https://github.com/scherermichael/semvertest/commit/8c642f1))
+
+#### Update release config ([2b020ea](https://github.com/scherermichael/semvertest/commit/2b020ea))
+
+### Chores
+
+
+#### bump https-proxy-agent from 2.2.1 to 2.2.4 ([1bcfb57](https://github.com/scherermichael/semvertest/commit/1bcfb57))
+
+### Features
+
+
+#### Update dependencies ([359dc22](https://github.com/scherermichael/semvertest/commit/359dc22))
+
+
+
+---
+
 ## 22.8.1 (2020-06-05)
 
 ### Bug Fixes
