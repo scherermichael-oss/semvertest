@@ -29,6 +29,6 @@
     "access": "public"
   },
   "release": {
-    "extends": "@sealsystems/semantic-release/npm"
+    "extends": "@sealsystems/semantic-release/node-module"
   }
 }
